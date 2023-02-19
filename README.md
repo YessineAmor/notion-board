@@ -26,4 +26,4 @@ Navigate to `localhost:5173/notion-board/`
 
 ### Build the app
 
-Run `yarn build` to build the app for production.
+Run `yarn build` or `npm run build` to build the app for production.
