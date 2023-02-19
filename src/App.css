@@ -1,0 +1,46 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.item {
+  background: white;
+  color: black;
+  border-radius: 0.5em;
+  cursor: pointer;
+  width: 100%;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  gap: 2rem;
+  width: 100%;
+}
+
+.drop-zone {
+  width: 100%;
+  min-height: 300px;
+  border: 2px dashed #ccc;
+  border-radius: 20px;
+  background-color: #f9fafb;
+  color: #bdbdbd;
+  outline: none;
+  transition: border 0.24s ease-in-out;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
