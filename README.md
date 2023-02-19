@@ -9,8 +9,6 @@ Hosted on https://yessineamor.github.io/notion-board/
 ## Screenshots
 
 <img width="1451" alt="image" src="https://user-images.githubusercontent.com/21021068/219964647-7a450f17-74db-4838-b2f2-061431c077d1.png">
-<img width="1318" alt="image" src="https://user-images.githubusercontent.com/21021068/219964702-be31d22b-e42d-4c64-abba-79cff443c3ec.png">
-
 
 ## Installation and Setup Instructions
 
