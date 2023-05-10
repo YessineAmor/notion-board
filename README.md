@@ -12,7 +12,7 @@ Hosted on https://yessineamor.github.io/notion-board/
 
 ## Installation and Setup Instructions
 
-You must have node and `npm` or `yarn` installed.
+You must have node and `npm` or `yarn` or any other package manager installed.
 
 Clone this repo and cd into `notion-board`
 
